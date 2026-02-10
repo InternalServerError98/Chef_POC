@@ -99,7 +99,7 @@ export default function AboutPage() {
 
               <div className="space-y-4">
                 <h3 className="text-xl font-semibold text-zinc-900 dark:text-white">
-                  Looking ahed
+                  Looking ahead
                 </h3>
                 <p>
                   The long-term vision is simple: to build a living collection of dishes people genuinely love, 
