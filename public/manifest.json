@@ -1,0 +1,21 @@
+{
+  "name": "The Community Table",
+  "short_name": "Community Table",
+  "description": "Connect culinary innovaters to you",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "chef_front_page.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    },
+    {
+      "src": "chef_front_page.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    }
+  ]
+}
